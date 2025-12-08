@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-core
+pymongo
+python-dotenv
+requests
+langchain-openai
