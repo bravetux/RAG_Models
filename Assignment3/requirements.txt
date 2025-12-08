@@ -1,0 +1,7 @@
+streamlit
+SpeechRecognition
+gTTS
+deep-translator
+pydub
+sounddevice
+numpy
