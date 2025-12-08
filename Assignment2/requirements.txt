@@ -1,0 +1,6 @@
+torch
+torchaudio
+transformers
+chromadb
+numpy
+scipy
